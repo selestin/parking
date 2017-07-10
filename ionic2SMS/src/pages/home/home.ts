@@ -16,7 +16,7 @@ export class HomePage {
     var options={
           replaceLineBreaks: false, // true to replace \n by a new line, false by default
           android: {
-             //  intent: 'INTENT'  // Opens Default sms app: sdfsdf mobile sms send it
+             //  intent: 'INTENT'  // Opens Default sms app: dfsdfsdf mobile sms send it
              intent: '' // Sends sms without opening default sms app
             }
     }
