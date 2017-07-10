@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/var/www/html/ionic/parking/ionic2SMS/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe2f36eb3150eac6e18f0ad2dd102c6e32081778">
+        <dex dex="/var/www/html/ionic/parking/ionic2SMS/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.2.3-debug_f4ad5e5978636542877579fe4ebe6bebcadbea7d.jar" />
+    </item>
+
+</items>
