@@ -20,7 +20,7 @@ export class HomePage {
               //intent: '' // Sends sms without opening default sms app
             }
     }
-    this.smsVar.send('+9995453566', 'Hello world!',options)
+    this.smsVar.send('+9199954535', 'Hello world!',options)
       .then(()=>{
         alert("success");
       },()=>{
